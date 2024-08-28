@@ -10,7 +10,13 @@ Nuevas Herramientas: Se han incorporado nuevas herramientas y funciones para amp
 
 Extensibilidad: GIMP se puede personalizar y ampliar mediante plugins, lo que permite adaptar la aplicación a necesidades específicas.
 
-# He compilado y empaquetado GIMP 2.99 en un paquete .deb
+# He compilado y empaquetado GIMP 2.99 para DEBIAN y derivados 
+- instalacion sencilla solo copia y pega este comando en el terminal
+```
+wget https://github.com/franckey02/Gimp-2.99/releases/download/2.99.16/installer-gimp-2.99.sh
+chmod +x installer-gimp-2.99.sh
+bash installer-gimp-2.99.sh
+```
 
 link del paquete: https://github.com/franckey02/Gimp-2.99/releases/tag/2.99.16
 
